@@ -78,3 +78,6 @@ StatEase 的设计初衷是帮助 没有编程基础的学生 快速完成统计
 
 如果你想加入开发或提出功能建议，欢迎提交 Issue 或 Pull Request。
 你的反馈将帮助我们让 StatEase 变得更好。
+<img alt="6755d436c02d99c872367421c07ffb15" src="https://github.com/user-attachments/assets/326d15b7-281a-483a-97f4-d81d85d86c37" width="40%" />
+（如有更多疑问请加入群聊）
+
